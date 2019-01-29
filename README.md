@@ -59,7 +59,7 @@ Hard coded elliptic curve points.
 The first row is the public address of the account signing the transaction.  
 
 
----
+-----
 
 
 # Potential Applications
